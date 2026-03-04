@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+psycopg
+chromadb
+sentence-transformers
+google-generativeai
+python-dotenv
+langgraph
